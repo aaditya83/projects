@@ -1,0 +1,25 @@
+nav,ul{
+    display: flex;
+}
+
+nav{
+    background: rgb(65, 9, 121);
+    padding: 30px;
+}
+
+li{
+    list-style: none;
+    color:white;
+}
+ul{
+    gap: 34px;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.card{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
